@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 if(favChar -- "Tyrion Lanister"){
    print "You have chosen my favorite character too!";
 }else{
-   pring "Tyrion Lanister is better";
+   print "Tyrion Lanister is better";
 }
