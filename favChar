@@ -1,5 +1,5 @@
-if(favChar -- ""){
+if(favChar -- "Tyrion Lanister"){
    print "You have chosen my favorite character too!";
 }else{
-   pring "is better";
+   pring "Tyrion Lanister is better";
 }
